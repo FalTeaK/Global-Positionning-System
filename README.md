@@ -15,5 +15,5 @@ Il est possible d'intégrer sa propore carte au logiciel dans `/src/engine.confi
 - le code couleur des différents éléments est présent dans la légende, située en haut a droite de de la fenetre d'application.
 
 **NOTE** : si la carte intégrer dans le code source est remplacée par une nouvelle carte, il va de soit que les points d'intérets contenu dans les fichiers d'extension ".csv" situés dans `/src/engine.config` ne font plus sens et doivents etre modifié ou supprimé pour convenir a la nouvelle carte.
-### Ajout de point d'intérêt
+### Ajout de points d'intérêts
 
