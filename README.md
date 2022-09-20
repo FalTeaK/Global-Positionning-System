@@ -5,7 +5,7 @@ Ce logiciel a pour but de similuer un indicateur d'itinéraire multimodale explo
 ## Installation
 > Cette application requiert [Java 8](https://www.oracle.com/fr/java/technologies/javase/javase8-archive-downloads.html) ou une version supérieur.
 
-Vous pouvez retrouver le dossier du projet contenant le code source [ici]().
+Vous pouvez retrouver le dossier du projet contenant le code source [ici](https://github.com/FalTeaK/Global-Positionning-System/releases/tag/1.0).
 
 Afin d'éxécuter le code source, la librairie [log4j](https://logging.apache.org/log4j/2.x/download.html) doit etre installée.
 ## Fonctionnalitées
