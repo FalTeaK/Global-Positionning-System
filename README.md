@@ -16,4 +16,4 @@ Il est possible d'intégrer sa propore carte au logiciel dans `/src/engine.confi
 
 **NOTE** : si la carte intégrer dans le code source est remplacée par une nouvelle carte, il va de soit que les points d'intérets contenu dans les fichiers d'extension ".csv" situés dans `/src/engine.config` ne font plus sens et doivents etre modifié ou supprimé pour convenir a la nouvelle carte.
 ### Ajout de points d'intérêts
-
+Il est possible de rajouter, modifier ou supprimer des points d'intérêts danns les différents fichiers d'extension ".csv" présents dans `/csv/engine.config`. Pour ajouter un point d'intérêt, veillez a bien respecter la syntaxe des autres points d'intérêts: NomDuLieu;PositionX;PositionY. 
