@@ -10,5 +10,7 @@ Vous pouvez retrouver le dossier du projet contenant le code source [ici]().
 Afin d'éxécuter le code source, la librairie [log4j](https://logging.apache.org/log4j/2.x/download.html) doit etre installée.
 ## Fonctionnalitées
 ### Création d'une nouvelle carte
+Il est possible d'intégrer sa propore carte au logiciel afin d'étudier les itinéraires les plus intéréssants en fonction de sa localisation. 
+**NOTE** : si la carte intégrer dans le code source est remplacée par une nouvelle carte, il va de soit que les points d'intérets dans ==...== ne font plus sens et doivents etre modifié ou supprimé pour convenir a la nouvelle carte.
 ### Ajout de point d'intérêt
 
